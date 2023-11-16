@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "343488355927",
+    "project_id": "zestee-8eddf",
+    "storage_bucket": "zestee-8eddf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:343488355927:android:81bf4d7650fa220c7c0d12",
+        "android_client_info": {
+          "package_name": "com.zestee"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCWVNyK02SpVLKogp6B30CDLHni9WQf2E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
